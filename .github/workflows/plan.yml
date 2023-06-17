@@ -19,7 +19,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: resources/010_RG
+        working-directory: resources\010_RG
 
     steps:
     - name: Checkout
